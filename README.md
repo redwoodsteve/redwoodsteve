@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @redwoodsteve
+- 👋 Hi, I’m redwoodsteve
 - 👀 I’m interested in coding stuff and playing Minecraft
 - 🌱 I’m currently learning JavaScript, CSS, and HTML
-- 💞️ I’m looking to collaborate on small projects
 - 📫 Contact me at chrislanders700@gmail.com
-
+- I have a website (redwoodsteve.github.io) that I made for my friends in school to use.
 <!---
 
 
